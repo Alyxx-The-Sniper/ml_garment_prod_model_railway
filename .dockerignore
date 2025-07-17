@@ -1,0 +1,5 @@
+.venv
+.git
+.gitignore
+Dockerfile
+train_model
