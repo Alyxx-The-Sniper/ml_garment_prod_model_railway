@@ -53,9 +53,9 @@ st.markdown(
 st.markdown("### ML Model & Documentation")
 st.markdown("- [Model Training Procedure](https://medium.com/@kaikuh/machine-learning-code-focus-1bf13c848bc7)") # Placeholder link
 
-st.markdown("### Others Sample of my work:")
+st.markdown("### Please see my other sample work:")
 st.markdown("- [Exploratory Data Analysis](https://medium.com/@kaikuh/data-science-statistics-and-machine-learning-part-1-663b07d42a7c)") # Placeholder link
 st.markdown("- [Hypothesis Testing: Incentive vs. No Incentive](https://medium.com/@kaikuh/statistical-analysis-part-2-3-b14b87f85abd)") # Placeholder link
 st.markdown("- [RAG](https://alyx-rag-sample.up.railway.app/)") # Placeholder link
-st.markdown("- [Agentic AI](https://multi-agent-hvac-production.up.railway.app/") # Placeholder link
+st.markdown("- [Agentic AI](https://multi-agent-hvac-production.up.railway.app/)") # Placeholder link
 st.markdown("- [Voice time capsule](https://voice-time-capsule-production.up.railway.app/)") # Placeholder link
