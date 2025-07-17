@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+streamlit==1.47.0
+scikit-learn==1.6.1
+joblib==1.5.1
+feature-engine==1.8.3
+xgboost==2.1.4
+pandas==2.3.1 
+numpy==2.0.2
+
